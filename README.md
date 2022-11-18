@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jmadih
 - 👀 I’m interested in Cloud architectures & Event Driven models
-- 🌱 I’m currently learning Service Mesh & solidity 
-- 💞️ I’m looking to collaborate with other architects to share & learn 
+- 🌱 I’m currently learning Service Mesh & solidity for web3.0 
 - 📫 How to reach me : madih.jaafar@gmail.com
 
 <!---
